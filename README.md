@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="prints/telas.png" alt="Telas do sistema: painel, serviços, clientes e orçamentos" width="100%">
+  <img src="telas.png" alt="Telas do sistema: painel, serviços, clientes e orçamentos" width="100%">
 </p>
 
 > Os dados mostrados são **fictícios**, apenas para demonstração.
