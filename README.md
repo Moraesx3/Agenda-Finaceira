@@ -45,7 +45,7 @@ Um painel que roda no navegador do celular, sem instalação e sem servidor:
 
 ## ▶️ Como usar
 
-1. Acesse **[moraesx3.github.io/minhas-financas](https://moraesx3.github.io/minhas-financas/)** ou baixe o `index.html` e abra no navegador.
+1. Acesse **[moraesx3.github.io/minhas-financas](https://moraesx3.github.io/Agenda-Finaceira/)** ou baixe o `index.html` e abra no navegador.
 2. O app abre com dados de exemplo. Para começar do zero com os seus dados, use **Empresa → Backup → Restaurar**, ou edite e exclua os exemplos.
 3. Faça **backup** com frequência: os dados ficam salvos apenas no navegador.
 
