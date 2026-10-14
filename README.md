@@ -1,4 +1,4 @@
-<h1 align="center">💰 Minhas Finanças — Painel F.Moraes</h1>
+<h1 align="center">💰 Agenda-Financeira — Painel F.Moraes</h1>
 
 <p align="center">
   Sistema de gestão de serviços para prestadores autônomos: clientes, agenda, faturamento e orçamentos em PDF.<br>
